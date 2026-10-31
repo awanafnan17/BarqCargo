@@ -1,0 +1,16 @@
+.pages/
+node_modules/
+__pycache__/
+*.pyc
+.env*
+!.env.example
+.DS_Store
+*.log
+*.sql
+*.sqlite*
+*.db
+*.key
+*.pem
+.wrangler/
+.vercel/
+*.zip

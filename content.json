@@ -1,0 +1,294 @@
+{
+  "sr": [
+    {
+      "q": "What types of cargo does Barq handle?",
+      "a": "We handle all types including general cargo, temperature-controlled freight, hazardous materials (with proper documentation), oversized project cargo, and high-value goods. Our multi-modal network covers road, air, and sea."
+    },
+    {
+      "q": "Do you offer door-to-door delivery?",
+      "a": "Yes. Our end-to-end logistics solutions include pickup from the origin, all transit handling, customs clearance, and final-mile delivery to the destination address — domestically and internationally."
+    },
+    {
+      "q": "How do I track my shipment?",
+      "a": "Contact the Barq Cargo support team with your shipment reference for status updates and delivery information."
+    },
+    {
+      "q": "What is your expertise in temperature-controlled logistics?",
+      "a": "Barq operates a dedicated reefer fleet capable of maintaining temperatures from -25°C to +25°C. We specialize in perishables including fresh produce, pharmaceuticals, and dairy products across domestic and export corridors."
+    },
+    {
+      "q": "How does custom clearance work?",
+      "a": "Our licensed customs brokers handle all documentation, duty calculations, HS code classification, and regulatory compliance on your behalf. We work across all major ports including Karachi, Lahore Dry Port, and Islamabad airport."
+    },
+    {
+      "q": "Can Barq handle large project cargo?",
+      "a": "Absolutely. Our project handling division specializes in heavy-lift, oversized, and multi-piece cargo requiring specialized equipment, route surveys, and government NOCs. Contact us for a detailed project assessment."
+    }
+  ],
+  "Lp": [
+    {
+      "id": "yiwu",
+      "name": "Yiwu Barq Trading & CO., LTD",
+      "flag": "CN",
+      "location": "Yiwu, China",
+      "tagline": "Your gateway from China to Pakistan",
+      "shortDesc": "Warehousing and export services from China, bridging Chinese manufacturers to your supply chain.",
+      "image": "/assets/corp_yiwu-C0b6nFaC.jpg",
+      "overview": "Yiwu Barq Trading & CO., LTD is Barq Cargo's sister company based in Yiwu, China — the world's largest small-commodity market. We provide comprehensive warehousing and export services, enabling Pakistani importers to source, store, consolidate, and export goods from China seamlessly.",
+      "highlights": [
+        "Strategic warehousing in Yiwu, Shanghai, and Guangzhou",
+        "Goods receiving, inspection, and labelling in China",
+        "Cargo consolidation for cost-effective FCL/LCL exports to Pakistan",
+        "Direct export corridors: China → Karachi Port & Port Qasim",
+        "Procurement assistance and supplier coordination",
+        "Real-time inventory visibility with digital reporting"
+      ]
+    },
+    {
+      "id": "vector",
+      "name": "Vector Logistics",
+      "flag": "PK",
+      "location": "Pakistan",
+      "tagline": "End-to-end freight & supply chain solutions",
+      "shortDesc": "A full-service logistics partner operating alongside Barq Cargo to extend freight reach.",
+      "image": "/assets/corp_vector-CCvJnEg-.jpg",
+      "overview": "Vector Logistics is a full-service logistics provider operating in parallel to Barq Cargo. Sharing the same ethos of reliability and speed, Vector extends the group's collective freight capabilities — offering ground, air, and ocean services to a broader clientele across Pakistan and international trade corridors.",
+      "highlights": [
+        "Multi-modal freight services: road, air, and ocean",
+        "Domestic and cross-border distribution network",
+        "Dedicated account management for key clients",
+        "Integrated operations with Barq Cargo for seamless joint shipments",
+        "Warehousing and distribution in major Pakistani cities",
+        "24/7 operations support and real-time cargo tracking"
+      ]
+    },
+    {
+      "id": "elite",
+      "name": "Elite Prepware",
+      "flag": "US",
+      "location": "United States",
+      "tagline": "US-based warehousing & e-commerce prep",
+      "shortDesc": "Warehousing and fulfilment services across the United States for e-commerce and retail.",
+      "image": "/assets/corp_elite-BkdmFZ5Q.jpg",
+      "overview": "Elite Prepware operates professional warehousing and fulfilment facilities across the United States. Specializing in e-commerce prep services, Amazon FBA preparation, and retail distribution, Elite Prepware enables Pakistani and international sellers to establish a reliable US logistics footprint without the overhead of owning local infrastructure.",
+      "highlights": [
+        "Amazon FBA prep: labelling, bundling, poly-bagging, and box-building",
+        "Multi-warehouse network across key US logistics hubs",
+        "Receiving, inspection, and storage of imported goods",
+        "B2B and B2C retail fulfilment services",
+        "Returns management and reverse logistics",
+        "Real-time inventory dashboard for all stored SKUs"
+      ]
+    }
+  ],
+  "Xl": [
+    {
+      "id": "road",
+      "icon": "Y0",
+      "label": "Road Freight",
+      "tagline": "Nationwide road network, door-to-door",
+      "shortDesc": "Multi-mode ground transport across Pakistan's major cities and industrial corridors.",
+      "image": "/assets/service_road-COQlj9oY.jpg",
+      "fullContent": {
+        "overview": "Barq's ground freight division is the backbone of Pakistan's domestic supply chain. We operate a modern, GPS-tracked fleet of trucks including flatbeds, reefers, and enclosed carriers — connecting manufacturers, distributors, and retailers across all major cities and industrial zones.",
+        "highlights": [
+          "Fleet of 200+ trucks including full-truck-load (FTL) and less-than-truckload (LTL) options",
+          "GPS real-time tracking on every vehicle",
+          "Dedicated express lanes: Lahore–Karachi, Karachi–Islamabad, and Peshawar corridors",
+          "Local last-mile delivery integrated with our long-haul network",
+          "Specialized flatbeds for oversized and industrial cargo",
+          "Door-to-door pickup and delivery with digital POD (Proof of Delivery)"
+        ],
+        "coverage": [
+          "Lahore",
+          "Karachi",
+          "Islamabad",
+          "Faisalabad",
+          "Multan",
+          "Peshawar",
+          "Quetta",
+          "Gujranwala"
+        ]
+      }
+    },
+    {
+      "id": "air",
+      "icon": "Q0",
+      "label": "Air Freight",
+      "tagline": "Priority international and domestic air cargo",
+      "shortDesc": "Time-critical shipments via major international and domestic airline partners.",
+      "image": "/assets/service_air-CzdU0a13.jpg",
+      "fullContent": {
+        "overview": "When speed is non-negotiable, Barq Air Freight delivers. We partner with major international airlines and domestic carriers to offer competitive, reliable air cargo solutions for time-sensitive shipments — from urgent documents to full charter loads.",
+        "highlights": [
+          "Direct agreements with major airlines for priority cargo space",
+          "Airport-to-airport and door-to-door air services",
+          "Coverage: Jinnah International (KHI), Allama Iqbal (LHE), Islamabad International (ISB)",
+          "International destinations across Middle East, Europe, UK, USA, and Asia",
+          "Dangerous goods handling (IATA compliant)",
+          "Same-day booking available for urgent consignments"
+        ],
+        "coverage": [
+          "Karachi (KHI)",
+          "Lahore (LHE)",
+          "Islamabad (ISB)",
+          "Dubai (DXB)",
+          "London (LHR)",
+          "New York (JFK)"
+        ]
+      }
+    },
+    {
+      "id": "ocean",
+      "icon": "G0",
+      "label": "Ocean Freight",
+      "tagline": "Port-to-port container shipping worldwide",
+      "shortDesc": "FCL and LCL ocean freight via Karachi Port and Port Qasim to global destinations.",
+      "image": "/assets/service_ocean-BFPkGnwz.jpg",
+      "fullContent": {
+        "overview": "Barq Ocean Freight offers comprehensive sea cargo services for importers and exporters. We handle Full Container Load (FCL) and Less-than-Container-Load (LCL) shipments through Karachi Port and Port Qasim, connecting Pakistan to ports across the globe.",
+        "highlights": [
+          "FCL: 20ft, 40ft standard, high-cube, and reefer containers",
+          "LCL consolidation for smaller shipments at competitive rates",
+          "Weekly sailings to Middle East, Europe, Far East, and Americas",
+          "Pre-clearance and port documentation management",
+          "Hazardous cargo handling with IMO compliance",
+          "Freight insurance available for all ocean shipments"
+        ],
+        "coverage": [
+          "Karachi Port",
+          "Port Qasim",
+          "Dubai (Jebel Ali)",
+          "Colombo",
+          "Singapore",
+          "Rotterdam"
+        ]
+      }
+    },
+    {
+      "id": "customs",
+      "icon": "I2",
+      "label": "Custom Clearance",
+      "tagline": "Regulatory expertise for smooth border crossings",
+      "shortDesc": "Licensed customs brokers handling all documentation, duties, and compliance.",
+      "image": "/assets/service_customs-C2mdxSpu.jpg",
+      "fullContent": {
+        "overview": "Navigating Pakistan's customs regulations can be complex. Barq's licensed customs clearance team simplifies the process — handling all documentation, duty calculations, HS code classification, and regulatory compliance so your cargo moves without delays.",
+        "highlights": [
+          "Licensed under Pakistan Customs (FBR) for all ports and dry ports",
+          "Expert HS code classification and duty optimization",
+          "Import/Export documentation: B/L, commercial invoices, packing lists, certificates of origin",
+          "SRO and exemption certificate management",
+          "ATA Carnet handling for temporary imports",
+          "Post-clearance audit support and dispute resolution"
+        ],
+        "coverage": [
+          "Karachi Port",
+          "Port Qasim",
+          "Lahore Dry Port",
+          "Islamabad Dry Port",
+          "Torkham Border",
+          "Wagah Border"
+        ]
+      }
+    },
+    {
+      "id": "project",
+      "icon": "$2",
+      "label": "Project Handling",
+      "tagline": "Heavy-lift, oversized & industrial cargo specialists",
+      "shortDesc": "End-to-end management of large-scale, complex, and high-value project cargo.",
+      "image": "/assets/service_project-BtgrtoTP.jpg",
+      "fullContent": {
+        "overview": "Barq Project Handling is a dedicated division for cargo that goes beyond standard freight. We manage the end-to-end logistics of heavy machinery, industrial equipment, power plant components, and infrastructure cargo — requiring specialized equipment, engineering, and government coordination.",
+        "highlights": [
+          "Heavy-lift and oversized cargo: up to 500 metric tons",
+          "Multi-modal project logistics: sea + road + crane operations",
+          "Route surveys, police escorts, and government NOC management",
+          "Specialized trailers: modular, lowbed, extendable deck",
+          "On-site project management and installation support",
+          "Case studies: Power plant relocation, mining equipment, wind turbines"
+        ],
+        "coverage": [
+          "Countrywide",
+          "Cross-border (Afghanistan, Iran)",
+          "Port-to-site delivery"
+        ]
+      }
+    },
+    {
+      "id": "warehousing",
+      "icon": "Q2",
+      "label": "Warehousing",
+      "tagline": "China-based storage & export fulfilment",
+      "shortDesc": "Strategic warehousing and export services from China to Pakistan and global markets.",
+      "image": "/assets/service_warehouse-BuKMnAxI.jpg",
+      "fullContent": {
+        "overview": "Barq's warehousing division operates state-of-the-art storage facilities across key trade hubs in China. Through our sister company Yiwu Barq Trading & Co., LTD, we offer end-to-end warehousing solutions — from goods receipt and quality inspection to consolidation and export — bridging Chinese manufacturers directly to your supply chain.",
+        "highlights": [
+          "Modern warehousing facilities in Yiwu, Shanghai, and Guangzhou",
+          "Goods receiving, quality inspection, and labelling services",
+          "Cargo consolidation for cost-effective FCL/LCL exports",
+          "Direct export corridors from China to Pakistan (sea & air)",
+          "Inventory management with real-time stock reporting",
+          "Cross-docking and transshipment services available"
+        ],
+        "coverage": [
+          "China (Nationwide)"
+        ]
+      }
+    }
+  ],
+  "rP": [
+    {
+      "year": "2015",
+      "title": "Founded in Lahore",
+      "desc": "Barq Cargo launched with a single truck and a vision to modernize Pakistan's logistics sector."
+    },
+    {
+      "year": "2017",
+      "title": "Karachi Office Opens",
+      "desc": "Expanded to Pakistan's commercial capital, gaining access to the country's largest port."
+    },
+    {
+      "year": "2019",
+      "title": "Reefer Division Launched",
+      "desc": "Introduced temperature-controlled logistics for perishables — a first for our region at this scale."
+    },
+    {
+      "year": "2021",
+      "title": "Air Freight Partnership",
+      "desc": "Signed agreements with 3 international cargo airlines to offer competitive air freight rates."
+    },
+    {
+      "year": "2023",
+      "title": "10,000 Shipments Milestone",
+      "desc": "Crossed 10,000 successful deliveries with a 98.7% on-time performance rate."
+    },
+    {
+      "year": "2025",
+      "title": "Digital Platform Launch",
+      "desc": "Launched real-time tracking and customer portal for transparent, 24/7 shipment visibility."
+    }
+  ],
+  "Dp": [
+    {
+      "id": "lahore",
+      "city": "Lahore Office",
+      "address": "Plot 45, DHA Phase 6, Lahore, Punjab 54000",
+      "phone": "+92 42 111 227 700",
+      "email": "lahore@barqcargo.com",
+      "hours": "Mon–Sat: 9:00 AM – 6:00 PM",
+      "mapSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d108882.02261927!2d74.24583855!3d31.48290225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39190483e58107d9%3A0xc23abe6ccc7e2462!2sDHA%20Phase%206%2C%20Lahore!5e0!3m2!1sen!2s!4v1700000000000"
+    },
+    {
+      "id": "karachi",
+      "city": "Karachi Office",
+      "address": "Suite 12, Port Tower, Clifton Block 9, Karachi 75600",
+      "phone": "+92 21 111 227 700",
+      "email": "karachi@barqcargo.com",
+      "hours": "Mon–Sat: 9:00 AM – 6:00 PM",
+      "mapSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57897.23432!2d67.01065!3d24.8220843!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb33e06651d4bbf%3A0x9cf92f44555a0c23!2sClifton%2C%20Karachi!5e0!3m2!1sen!2s!4v1700000000001"
+    }
+  ]
+}

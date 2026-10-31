@@ -1,0 +1,21 @@
+BARQCARGO - VERIFIED V10
+
+This archive contains the exact 41 website files from the corrected published v10.
+1. Extract this ZIP into a NEW folder. Do not merge it into an old copy.
+2. Stop your previous local server.
+3. From this folder run: sh START-MAC-LINUX.command
+4. The server MUST print: VERIFIED: BarqCargo-Verified-v10 - all 41 published website files match.
+5. Point your tunnel to http://127.0.0.1:8080 and open the new tunnel URL.
+
+For Antigravity: use terminal/CLI only. Do not edit or rebuild the website.
+Run python3 serve.py --verify-only first, then start this folder's server.
+Confirm the local response contains the header X-Barq-Release: verified-v10
+before starting the tunnel. A 200 response alone does not verify the release.
+If port 8080 is occupied, stop only the identified previous website server or
+use python3 serve.py --port 8081 and point the tunnel at port 8081.
+
+BUILD-INFO.json contains checksums for every website file.
+The startup integrity guard is for this original delivery; intentional future
+website edits require updating the manifest or using your own development server.
+
+Mobile fix: the Home hero now includes a boat beneath the kite. Desktop is preserved.
