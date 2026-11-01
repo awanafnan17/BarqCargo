@@ -1,4 +1,4 @@
-# Barq Cargo
+# BarqCargo source notes
 
 Home, About, Services, Contact, Our network and a custom 404 page. Serve `dist/` with any static HTTPS host. Run `python3 build.py` after editing the Python templates or `content.json`. CSS and JavaScript in `dist/` are authored source files and versioned with the generated pages.
 

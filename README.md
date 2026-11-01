@@ -1,14 +1,14 @@
 # BarqCargo
 
-An interactive, production-style logistics website built around cinematic motion, responsive storytelling and locally served 3D cargo scenes.
+A six-page logistics website with scroll-driven motion, responsive layouts, and locally served 3D cargo scenes.
 
 [Live demo](https://awanafnan17.github.io/BarqCargo/) · [Source notes](SOURCE-NOTES.md) · [Report an issue](https://github.com/awanafnan17/BarqCargo/issues)
 
 ![BarqCargo desktop homepage](docs/preview.png)
 
-## What this project demonstrates
+## What it includes
 
-BarqCargo turns a conventional corporate freight website into an experiential product showcase. The home page combines an ocean-film hero, an interactive kite-and-vessel scene and a scroll-driven company journey. Supporting pages retain the visual language while presenting services, company history, locations and enquiry paths in accessible layouts.
+BarqCargo is a static freight website built around an ocean-film homepage, an interactive kite-and-vessel scene, and a scroll-driven company journey. The other pages cover services, company history, locations, and enquiries with the same responsive design.
 
 The published experience includes:
 
@@ -125,9 +125,9 @@ The enquiry form opens a pre-addressed draft in the visitor's email application.
 
 ## Project status
 
-The v10 static export is feature-complete and deployment-ready. Testimonial text is deliberately labelled as sample content until approved client quotes are supplied. Content and commercial claims should be revalidated by the business owner before a production launch.
+The v10 static export builds and passes the checks above. Testimonials are clearly labelled as sample content until approved client quotes are supplied. The business owner should confirm all content and commercial claims before a production launch.
 
 ## Author
 
-Designed and engineered by [Afnan Mehmood Awan](https://github.com/awanafnan17).
+Built by [Afnan Mehmood Awan](https://github.com/awanafnan17).
 
